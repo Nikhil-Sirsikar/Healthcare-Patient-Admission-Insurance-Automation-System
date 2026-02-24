@@ -20,7 +20,7 @@ Integrated Salesforce with CTM and KIPU systems to enable smooth coordination ac
 
 ## 👨‍💻 Role: Salesforce Developer (Team Lead)
 
-Led a team of 3 junior developers and was responsible for both technical implementation and solution delivery.
+Lead a team of 3 junior developers and was responsible for both technical implementation and solution delivery.
 
 ---
 
